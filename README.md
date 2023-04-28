@@ -6,7 +6,7 @@ Create a program that will read the data given in the file "Point_Data.txt" and 
 ### Input Data:
 -List of (x,y) plane coordinate pairs
 -List of transformation parameters
-###Output Data:
+### Output Data:
 -List of transformed pairs of (x',y') planar coordinates
 
 ## Toolbox
